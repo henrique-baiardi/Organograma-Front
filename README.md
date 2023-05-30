@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Create Command Code
+In your cmd with node open, read this code:
+->  npx create-react-app Organograma
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
